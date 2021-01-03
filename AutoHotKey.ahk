@@ -59,6 +59,9 @@ Lwin & Tab::AltTab
 ; delete files
 !Backspace::SendInput {Delete}
 
+; Open Search
+!Space::SendInput #{q}
+
 ; --------------------------------------------------------------
 ; Application specific
 ; --------------------------------------------------------------
