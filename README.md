@@ -10,3 +10,9 @@ This is a very nice tool to have if you regularly switch between Windows and Mac
 - Position your mouse wherever you want to click and drag from and do a 3 finger tap on the touchpad
 - Move the mouse using a single finger like you normally do, except now the system acts like you’re click-and-dragging to that location. You can take your finger off the touchpad and on again to cover large portions of the screen, or even use the two finger gesture to scroll through large articles like this one and select the entire text.
 - When you’re done selecting, tap again either with a single finger or with 3 to end the gesture. You can now copy your selected text, or if you’d been moving windows around, it will now stop following your cursor. (I found that a single finger tap to end the gesture to end the drag feels much more natural, however I added the three finger as well for consistency.)
+
+
+Khalitt FIx:
+* Remove dupliacate mapping
+* Map Mac chrome keys into windows10:
+    * Alt -> Command
